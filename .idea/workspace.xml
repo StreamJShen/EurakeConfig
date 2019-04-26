@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="73a8d75c-d048-45bf-a27c-a62b97814b16" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/SpringCloud/DEMO/test.yml" beforeDir="false" afterPath="$PROJECT_DIR$/SpringCloud/DEMO/test.yml" afterDir="false" />
-    </list>
+    <list default="true" id="73a8d75c-d048-45bf-a27c-a62b97814b16" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +74,7 @@
     <option name="IS_SET_METHOD_ICONS_ENABLED" value="true" />
     <option name="IS_UNIT_TEST_ENABLED" value="true" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="y" value="203" />
     <option name="width" value="1440" />
     <option name="height" value="828" />
@@ -158,8 +156,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Image Layers" />
